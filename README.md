@@ -1,4 +1,4 @@
-# E-commerce App
+# Post It App
 ![](https://media0.giphy.com/media/vj3Gx8sJBl3BV8DRrx/giphy.gif?cid=ecf05e47jn6kp0wirakq2zhv1plll2dd0f5k88uzlcfmojde&rid=giphy.gif&ct=g)
 
 ## Functional description
