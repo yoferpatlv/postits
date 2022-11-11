@@ -1,0 +1,78 @@
+INFO 2022-09-05T12:38:49.546Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api.0jest\src\index.js | db connected
+INFO 2022-09-05T12:39:58.322Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api.0jest\src\index.js | db connected
+INFO 2022-09-05T12:39:58.473Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api.0jest\src\index.js | api started
+ERROR 2022-09-05T13:16:18.986Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api.0jest\src\routes\users\authenticateUserHandler.js | user with email pepite@grillo.com not found
+INFO 2022-09-05T13:16:52.559Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api.0jest\src\index.js | 
+ api stopped
+INFO 2022-09-05T13:16:52.563Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api.0jest\src\index.js | db disconnected
+INFO 2022-09-05T13:16:57.245Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api.0jest\src\index.js | db connected
+INFO 2022-09-05T13:16:57.596Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api.0jest\src\index.js | api started
+ERROR 2022-09-05T13:28:34.541Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api.0jest\src\routes\users\authenticateUserHandler.js | email is not valid
+INFO 2022-09-05T13:50:05.186Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\index.js | db connected
+INFO 2022-09-05T13:50:05.520Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\index.js | api started
+ERROR 2022-09-05T14:33:06.425Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2022-09-05T14:33:14.665Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2022-09-05T14:33:15.349Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2022-09-05T14:33:15.869Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2022-09-05T14:33:16.358Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2022-09-05T14:35:38.840Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2022-09-05T14:37:35.799Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\users\authenticateUserHandler.js | email is not a string
+ERROR 2022-09-05T14:41:08.342Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\users\authenticateUserHandler.js | user with email pepito@grillo.com not found
+ERROR 2022-09-05T14:57:10.845Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\notes\createNoteHandler.js | text is not a string
+ERROR 2022-09-05T14:57:43.532Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\notes\createNoteHandler.js | text is not a string
+ERROR 2022-09-05T15:00:26.156Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\notes\createNoteHandler.js | text is empty or blank
+ERROR 2022-09-05T15:00:36.725Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\notes\createNoteHandler.js | text is empty or blank
+INFO 2022-09-05T15:39:35.899Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\index.js | db connected
+INFO 2022-09-05T15:40:02.818Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\index.js | db connected
+INFO 2022-09-05T15:40:03.157Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\index.js | api started
+ERROR 2022-09-05T15:40:24.703Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\notes\updateNoteTextHandler.js | updateNoteText is not a function
+ERROR 2022-09-05T15:42:43.371Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\notes\updateNoteTextHandler.js | updateNoteText is not a function
+ERROR 2022-09-05T15:43:21.505Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\notes\updateNoteTextHandler.js | updateNoteText is not a function
+ERROR 2022-09-05T15:45:43.739Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\notes\updateNoteTextHandler.js | updateNoteText is not a function
+INFO 2022-09-05T15:46:00.526Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\index.js | 
+ api stopped
+INFO 2022-09-05T15:46:00.531Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\index.js | db disconnected
+INFO 2022-09-05T15:48:16.601Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\index.js | db connected
+INFO 2022-09-05T15:48:16.945Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\index.js | api started
+ERROR 2022-09-05T15:48:18.030Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\notes\retrieveNotesHandler.js | user with id 6315f6a8f0f7ef92ddd46ac5 not found
+ERROR 2022-09-05T15:48:25.888Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\users\authenticateUserHandler.js | user with email pepite@grillo.com not found
+ERROR 2022-09-05T15:48:30.021Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\users\authenticateUserHandler.js | user with email pepite@grillo.com not found
+ERROR 2022-09-05T15:48:31.219Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\users\authenticateUserHandler.js | user with email pepite@grillo.com not found
+INFO 2022-09-13T07:55:54.120Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\index.js | db connected
+INFO 2022-09-13T07:55:54.550Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\index.js | api started
+ERROR 2022-09-13T07:56:02.468Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\users\authenticateUserHandler.js | user with email jose@fer.com not found
+ERROR 2022-09-13T07:56:13.633Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\users\authenticateUserHandler.js | user with email peter@pan.com not found
+ERROR 2022-09-13T07:56:18.915Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\users\authenticateUserHandler.js | user with email peter@pan.com not found
+ERROR 2022-09-13T07:59:40.636Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\users\registerUserHandler.js | user already exists
+ERROR 2022-09-13T08:00:00.417Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\users\registerUserHandler.js | user already exists
+ERROR 2022-09-13T08:00:11.977Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\users\registerUserHandler.js | user already exists
+ERROR 2022-09-13T08:00:54.133Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\users\registerUserHandler.js | user already exists
+ERROR 2022-09-13T08:04:03.041Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\users\registerUserHandler.js | user already exists
+ERROR 2022-09-13T08:25:17.810Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\users\registerUserHandler.js | user already exists
+INFO 2022-09-13T08:26:54.255Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\index.js | 
+ api stopped
+INFO 2022-09-13T08:26:54.261Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\index.js | db disconnected
+INFO 2022-09-13T08:27:47.981Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\index.js | db connected
+INFO 2022-09-13T08:27:48.358Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\index.js | api started
+ERROR 2022-09-13T08:27:51.760Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\users\registerUserHandler.js | user already exists
+INFO 2022-09-13T08:28:33.197Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\index.js | 
+ api stopped
+INFO 2022-09-13T08:28:33.201Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\index.js | db disconnected
+INFO 2022-09-13T08:28:47.141Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\index.js | db connected
+INFO 2022-09-13T08:28:47.285Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\index.js | api started
+INFO 2022-09-13T14:59:35.275Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\index.js | db connected
+INFO 2022-09-13T14:59:45.004Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\index.js | db connected
+INFO 2022-09-13T14:59:45.148Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\index.js | api started
+ERROR 2022-09-13T15:00:23.736Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\users\authenticateUserHandler.js | user with email jose@fer.com not found
+ERROR 2022-09-13T15:00:26.796Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\users\authenticateUserHandler.js | user with email jos@fer.com not found
+ERROR 2022-09-13T15:00:27.943Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\users\authenticateUserHandler.js | user with email jos@fer.com not found
+ERROR 2022-09-13T15:00:33.189Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\users\authenticateUserHandler.js | user with email jos@fer.com not found
+ERROR 2022-09-13T15:00:54.174Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\routes\users\authenticateUserHandler.js | user with email jos@fer.com not found
+INFO 2022-09-13T15:02:57.392Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\index.js | 
+ api stopped
+INFO 2022-09-13T15:02:57.398Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\postits\api\src\index.js | db disconnected
+INFO 2022-11-11T15:19:37.544Z undefined/C:\Users\jose_\workspace\postits\api\src\index.js | db connected
+INFO 2022-11-11T15:19:37.904Z undefined/C:\Users\jose_\workspace\postits\api\src\index.js | api started
+INFO 2022-11-11T16:15:30.676Z undefined/C:\Users\jose_\workspace\postits\api\src\index.js | 
+ api stopped
+INFO 2022-11-11T16:15:30.681Z undefined/C:\Users\jose_\workspace\postits\api\src\index.js | db disconnected
